@@ -8,7 +8,7 @@ function App() {
     (async () => {
       const res = await fetch("https://locakhost.jp/api");
       const charaDatas = await res.json();
-      setData(charaDatas.find((data) => (data.id === 1)));
+      setData(charaDatas.find((data) => (data.id === 2)));
     })();
   }, []);
   return (
