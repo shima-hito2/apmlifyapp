@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/apmlifyapp/static/css/main.31d6cfe0.css",
+    "main.js": "/apmlifyapp/static/js/main.747074b4.js",
+    "index.html": "/apmlifyapp/index.html",
+    "main.747074b4.js.map": "/apmlifyapp/static/js/main.747074b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.747074b4.js"
+  ]
+}
