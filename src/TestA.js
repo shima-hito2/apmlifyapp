@@ -5,7 +5,7 @@ const TestA = () => {
   const [data, setData] = useState([]);
   useEffect(() => {
     (async () => {
-      const res = await fetch("https://locakhost.jp/api");
+      const res = await fetch("https://homepager.net/api");
       const charaDatas = await res.json();
       setData(charaDatas.find((data) => (data.id === 1)));
     })();
