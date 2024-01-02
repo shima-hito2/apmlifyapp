@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/apmlifyapp/static/css/main.31d6cfe0.css",
-    "main.js": "/apmlifyapp/static/js/main.fca34b08.js",
+    "main.js": "/apmlifyapp/static/js/main.d4a7be36.js",
     "index.html": "/apmlifyapp/index.html",
-    "main.fca34b08.js.map": "/apmlifyapp/static/js/main.fca34b08.js.map"
+    "main.d4a7be36.js.map": "/apmlifyapp/static/js/main.d4a7be36.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.fca34b08.js"
+    "static/js/main.d4a7be36.js"
   ]
 }
