@@ -17,13 +17,13 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route exact path='/amplifyapp/' element={<TestA />} />
-        <Route exact path='/amplifyapp/b' element={<TestB />} />
+        <Route exact path='/apmlifyapp/' element={<TestA />} />
+        <Route exact path='/apmlifyapp/b' element={<TestB />} />
         {/* <Route path='/login' component={Login} />
       <Route path='/todo' component={TodoList} /> */}
       </Routes><br/>
-      <Link to='/'>Aに</Link><br/>
-      <Link to='/b'>Bに</Link>
+      <Link to='/apmlifyapp/'>Aに</Link><br/>
+      <Link to='/apmlifyapp/b'>Bに</Link>
     </BrowserRouter>
   );
 }
